@@ -1,3 +1,7 @@
+Planet Understanding the Amazon from Space
+
+Titanic - Machine Learning from Disaster
+
 # Kaggle Projects
 
 This folder contains my Kaggle competition projects. Kaggle is a platform that hosts data science competitions, and I have participated in several competitions to improve my data analysis and machine learning skills.
@@ -12,4 +16,4 @@ This is a classic machine learning competition on Kaggle, where the goal is to p
 
 ---
 
-These projects demonstrate my ability to work with real-world datasets and
+These projects demonstrate my ability to work with real-world datasets
