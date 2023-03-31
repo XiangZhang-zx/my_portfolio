@@ -42,5 +42,5 @@ This method returns an integer, the total number of births of those names with t
 
 ## Usage
 
-To test the program, we use the small data files.
+To use this project, you can run the BabyNames class in an IDE or from the command line. You can provide input data to the methods by specifying the required parameters. Examples of usage can be found in the comments of the code.
 
