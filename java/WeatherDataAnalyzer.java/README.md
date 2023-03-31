@@ -23,7 +23,6 @@ $ javac CSVMax.java
 $ java CSVMax
 
 This will run the program and output the results of the tester methods.
-```bash
 
 ## Credits
 
