@@ -10,4 +10,28 @@ Through this project, I will gain valuable experience in data analysis, critical
 
 The following files are part of this project:
 
-1. [Answear-Task 1 (Word Document)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvt
+1. [Answear-Task 1 (Word Document)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
+2. [Dashboard (Excel)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
+3. [Dataset (Excel)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
+4. [Project Presentation (PowerPoint)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
+
+The following files are available on the GitHub repository:
+
+1. Data Analysis Methods.md
+2. Data_Preparation.md
+3. README.md
+4. Results and Recommendations.md
+
+## Accessing Project Files on Google Drive
+
+To access the project files on Google Drive, click on the provided links above. The files are stored in a shared folder, so you should be able to view and download them without any issues.
+
+## Contributing to the Project
+
+If you are interested in contributing to the project or have any suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub. Your input is greatly appreciated!
+
+## Acknowledgements
+
+I would like to thank KPMG for providing this virtual internship opportunity and allowing me to gain valuable experience in data analysis and business insights.
+
+
