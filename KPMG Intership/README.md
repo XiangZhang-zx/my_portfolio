@@ -14,7 +14,7 @@ The following files are part of this project:
 2. [Dashboard (Excel)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
 3. [Dataset (Excel)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
 4. [Project Presentation (PowerPoint)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
-
+5. [Technical_Skills_and_Tools (Word Document)](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
 The following files are available on the GitHub repository:
 
 1. Data Analysis Methods.md
