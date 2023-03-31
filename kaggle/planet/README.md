@@ -18,5 +18,5 @@ The data is particularly important for understanding deforestation in the Amazon
 The class labels for this task were chosen in collaboration with Planet's Impact team and represent a reasonable subset of phenomena of interest in the Amazon basin. The labels can broadly be broken into three groups: atmospheric conditions, common land cover/land use phenomena, and rare land cover/land use phenomena. Each chip will have one and potentially more than one atmospheric label and zero or more common and rare labels.
 
 By using these labels, researchers can train machine learning algorithms to automatically identify different types of land cover and land use in the Amazon Basin. This can help to identify areas where deforestation is occurring, as well as track changes in vegetation cover and other environmental variables over time.
-
+## Conclusion
 Overall, the Planet: Understanding the Amazon from Space competition has been a valuable opportunity for Kagglers to apply their skills and knowledge to an important real-world problem, and to contribute to the development of innovative solutions that can have a positive impact on the environment and society.
