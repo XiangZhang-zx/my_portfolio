@@ -1,3 +1,0 @@
-The program will analyze weather data and find the coldest day, the coldest temperature, and the lowest humidity in different files. 
-It includes methods to find the coldest hour in a file, the file with the coldest temperature, and the lowest humidity in a file or many files. 
-It also has methods to calculate the average temperature in a file and the average temperature with high humidity in a file.
