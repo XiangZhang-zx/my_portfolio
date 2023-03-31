@@ -13,6 +13,5 @@ This project analyzes temperature and humidity data from weather files, answerin
 ## DNA Analysis and URL Finder
 
 A project that demonstrates my understanding of Java string manipulation, including methods such as substring, indexOf
-, and concatenation. This project also showcases my ability to work with loops and conditional statements in Java. [Read more](./DNA Analysis%20and%20URL%20Finder/README.md)
-
+, and concatenation. This project also showcases my ability to work with loops and conditional statements in Java. [Read more](./DNA%20Analysis%20and%20URL%20Finder/README.md)
 These projects provide an overview of my Java programming skills and my ability to solve real-world problems using the Java language. I hope this folder helps the university application reviewers better understand my experience and proficiency in Java. If you have any questions or need more information about a specific project, please refer to the individual project folders and their respective README files.
