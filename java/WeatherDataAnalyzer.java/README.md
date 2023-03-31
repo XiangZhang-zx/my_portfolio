@@ -24,5 +24,8 @@ $ java CSVMax
 
 This will run the program and output the results of the tester methods.
 
+This will run the program and output the results of the tester methods.
+
 ## Credits
+
 This project was completed as part of the Duke University Java Programming course.
