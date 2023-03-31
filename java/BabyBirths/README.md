@@ -8,7 +8,7 @@ To run this project, you need to have Java environment installed and configured 
 
 ## Data
 
-The data files give information on the first names of people born in a particular year from 1880 through 2014 on both boys and girls names. The zip folder with all the baby name data can be downloaded [here](https://www.ssa.gov/oact/babynames/limits.html). Since these data files are quite large, there are three small files with fake data for testing. They can be downloaded [here](https://www.dukelearntoprogram.com//course2/data/us_babynames_small.zip).
+The data files give information on the first names of people born in a particular year from 1880 through 2014 on both boys and girls names. The zip folder with all the baby name data can be downloaded [here](http://www.dukelearntoprogram.com/course2/data/us_babynames.zip). Since these data files are quite large, there are three small files with fake data for testing. They can be downloaded [here](https://www.dukelearntoprogram.com//course2/data/us_babynames_small.zip).
 
 ## Methods
 
