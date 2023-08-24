@@ -17,6 +17,7 @@ Welcome to my GitHub repository! This repository contains my projects and soluti
 ### Kaggle Competitions
 - Titanic - Machine Learning from Disaster
 - Planet: Understanding the Amazon from Space
+- Toxic Comment Classification
 
 ### KPMG Virtual Internship
 - [Data Analysis Methods.md](./KPMG_Intership/Data_Analysis_Methods.md)
