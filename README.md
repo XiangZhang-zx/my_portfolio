@@ -27,7 +27,7 @@ Welcome to my GitHub repository! This repository contains my projects and soluti
 For some files from the KPMG Virtual Internship, please access them on [Google Drive](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing)
 
 ### Fastai Deep Learning Project
-- [Practical Deep Learning for Coders - Lesson 2 App](https://huggingface.co/spaces/zhangxiangzx/testing)
+- [Practical Deep Learning for Coders - Lesson 2 App]([https://huggingface.co/spaces/zhangxiangzx/testing](https://huggingface.co/spaces/zhangxiangzx/model2))
   - This app is a customized version of the Lesson 2 project from the Practical Deep Learning for Coders course by fastai. I have modified the model to differentiate between grapes and peaches (instead of the original cats and dogs), and updated the images accordingly.
 
 I hope you find my portfolio helpful and informative. If you have any questions or suggestions, please feel free to contact me. Thank you for your interest in my work, and I look forward to demonstrating my skills and dedication to the field.
