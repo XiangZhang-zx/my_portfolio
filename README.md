@@ -2,7 +2,7 @@
 Welcome to my GitHub repository! Here, you'll find a diverse range of projects that showcase my skills in Kaggle competitions, Java, C++, and my work in the KPMG Virtual Internship. With a strong foundation in C++, it's my language of choice, but you'll also see my versatility across other languages and frameworks.
 
 ### Kaggle Silver Medal Achievement
-- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in this challenging Kaggle competition. Explore my methods and insights in this [notebook](https://www.kaggle.com/wadnijfioa).
+- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in [this challenging Kaggle competition ](https://www.kaggle.com/wadnijfioa).
 
 ### C++ Projects
 - **Cars on Campus**: An application simulating vehicle management on a university campus.
