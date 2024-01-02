@@ -25,7 +25,7 @@ Welcome to my GitHub repository! Here, you'll find a diverse range of projects t
 Access additional files from the KPMG Virtual Internship on [Google Drive](https://drive.google.com/drive/folders/1LVpIuhkjQSpM4BLtXYsWJvtSEp9cxPOl?usp=sharing).
 
 ### Fastai Deep Learning Project
-- [Practical Deep Learning for Coders - Lesson 2 App](https://huggingface.co/spaces/zhangxiangzx/testing): A modified version of the Lesson 2 project. This app differentiates between grapes and peaches using a customized model.
+- [Practical Deep Learning for Coders - Lesson 2 App]([https://huggingface.co/spaces/zhangxiangzx/testing](https://huggingface.co/spaces/zhangxiangzx/model2)): A modified version of the Lesson 2 project. This app differentiates between grapes and peaches using a customized model.
 
 ### Kaggle Silver Medal Achievement
 - **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in this challenging Kaggle competition. Explore my methods and insights in this [notebook](https://www.kaggle.com/wadnijfioa).
