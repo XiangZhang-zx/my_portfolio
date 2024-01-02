@@ -1,6 +1,9 @@
 ## Introduction
 Welcome to my GitHub repository! Here, you'll find a diverse range of projects that showcase my skills in Kaggle competitions, Java, C++, and my work in the KPMG Virtual Internship. With a strong foundation in C++, it's my language of choice, but you'll also see my versatility across other languages and frameworks.
 
+### Kaggle Silver Medal Achievement
+- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in this challenging Kaggle competition. Explore my methods and insights in this [notebook](https://www.kaggle.com/wadnijfioa).
+
 ### C++ Projects
 - **Cars on Campus**: An application simulating vehicle management on a university campus.
 - **Check Inorder Traversals**: A tool to verify the correctness of inorder traversal in binary trees.
@@ -27,7 +30,6 @@ Access additional files from the KPMG Virtual Internship on [Google Drive](https
 ### Fastai Deep Learning Project
 - [Practical Deep Learning for Coders - Lesson 2 App](https://huggingface.co/spaces/zhangxiangzx/model2): A modified version of the Lesson 2 project. This app differentiates between grapes and peaches using a customized model.
 
-### Kaggle Silver Medal Achievement
-- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in this challenging Kaggle competition. Explore my methods and insights in this [notebook](https://www.kaggle.com/wadnijfioa).
+
 
 I am excited to share my work with you. If you have questions or need further information, don't hesitate to reach out. Thank you for visiting, and I hope my repository provides you with valuable insights into my skills and dedication to the field of computer science and data analysis.
