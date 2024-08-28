@@ -5,7 +5,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my acad
 - **LLM-StockQuery-Dataset**: This directory contains the complete resources for my research paper titled **"Can LLMs Substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases."** It includes the dataset, code, and documentation that explore the efficiency of Large Language Models (LLMs) in handling SQL-like queries and their resource utilization compared to traditional relational databases. [Learn more and access the full resources in the project's README](./LLM-StockQuery-Dataset/README.md)
 
 ### Kaggle Silver Medal Achievement
-- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in [this challenging Kaggle competition ](https://www.kaggle.com/wadnijfioa).
+- **CAFA 5 Protein Function Prediction**: This notebook presents my approach and solutions that led to achieving a silver medal in [this challenging Kaggle competition ](https://www.kaggle.com/certification/competitions/wadnijfioa/cafa-5-protein-function-prediction).
 
 ### C++ Projects
 - **Cars on Campus**: An application simulating vehicle management on a university campus.
